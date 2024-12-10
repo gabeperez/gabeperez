@@ -1,5 +1,14 @@
 # 🏄‍♂️ Gabe.md
 
+## 🐱 My GitAnimal
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/gabeperez"
+    width="600"
+    height="120"
+  />
+</a>
+
 ## 👋 About Me
 
 Hi there! I'm an enthusiastic digital marketing professional and social media specialist based in **Fujisawa, Kanagawa, Japan**. My interests and activities are diverse, and I enjoy exploring new experiences and ideas while living a dynamic lifestyle near the beautiful Shonan area.
