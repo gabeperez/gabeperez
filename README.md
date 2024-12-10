@@ -5,8 +5,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/gabeperez"
-    width="600"
-    height="120"
+    width="800"
+    height="160"
   />
 </a>
 
