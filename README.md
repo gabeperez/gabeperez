@@ -12,17 +12,6 @@
 
 ---
 
-## 👋 About Me
-
-<details>
-<summary>Click to expand</summary>
-
-Hi there! I'm traditionally a digital marketing professional and social media specialist but have always been a hacker at heart. Currently building apps and building up my dev chops by spinning up little projects here and there.
-
-</details>
-
----
-
 ### 🌟 Projects I'm Tinkering With
 
 <details>
