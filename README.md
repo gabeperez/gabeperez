@@ -21,7 +21,7 @@
 2. **Shonan Lifestyle Blog:** Trying to share more about my life in Fujisawa.
 3. **Radio Project:** Develop a Japanese-inspired radio station based on my environment and music tastes.
 4. **Portfolio App:** Utilize Apple’s App Clip experience for creative networking.
-5. **Personal Growth:** Keep learning, tinkering, and growing as a multi-faceted individual.
+5. **Mute App:** An app to make muting your mic on Mac easier.
 
 </details>
 
