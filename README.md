@@ -23,21 +23,7 @@ Hi there! I'm traditionally a digital marketing professional and social media sp
 
 ---
 
-### 🎵 Hobbies & Interests
-
-<details>
-<summary>Click to expand</summary>
-
-- **Music:** I’ve played saxophone for 11 years and can also play the guitar. Music is a huge part of my life, and my ears even move involuntarily to certain sounds or when I’m playing!
-- **Fitness:** Staying fit and active is a priority. I enjoy working out and keeping up with a healthy lifestyle.
-- **Coffee & Matcha Lover:** I’m passionate about discovering new coffee shops and getting fueled to build things for [gimme.coffee](https://gimme.coffee).
-- **Tinkering & Tech:** I love experimening with tech and am currently using Curosr and Warp to build apps both web and MacOS based.
-- **Family Life:** A proud parent of two adorable kids.
-</details>
-
----
-
-### 🌟 Projects
+### 🌟 Projects I'm Tinkering With
 
 <details>
 <summary>Click to expand</summary>
