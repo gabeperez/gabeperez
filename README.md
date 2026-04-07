@@ -2,12 +2,12 @@
 
 ## 🐱 My GitAnimal
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/gabeperez?0"
-    width="800"
-    height="160"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gabeperez&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/gabeperez"
+  width="600"
+  height="300"
+/>
 </a>
 
 ---
