@@ -1,6 +1,6 @@
 # 🏄‍♂️ Gabe.md
 
-## 🐱 My GitAnimal
+## 🐱 My GitFarm
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gabeperez&utm_content=farm">
 <img
